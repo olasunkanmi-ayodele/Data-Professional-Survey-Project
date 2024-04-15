@@ -4,7 +4,7 @@ The Data Professional Survey Dataset is a dataset provided by Alex Freberg and w
 
 Power BI was the tool used for the Analysis and Visualization.
 
-The dataset contained 631 rows and 28 columns. The dataset was cleaned and transformed in the Power Query editor where I checked for data quality issues, added calculated columns then proceeded to Power BI  report view to create the dashboard. 
+The dataset was cleaned and transformed in the Power Query editor where I checked for data quality issues, added calculated columns then proceeded to Power BI  report view to create the dashboard. 
 
 # Insights
 1. KPIs
