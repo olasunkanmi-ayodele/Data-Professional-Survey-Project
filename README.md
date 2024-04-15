@@ -1,6 +1,6 @@
 # Data Professional Survey Project
 
-The Data Professional Survey Dataset is a dataset provided by Alex Freberg and was collected through a survey targetting individuals working in the field of data science and analytics. The survey aimed to gather insights into various aspects of the participants' roles, experiences, and preferences related to their careers in data.
+The Data Professional Survey Dataset is a dataset provided by Alex Freberg and was collected through a survey targeting individuals working in the field of data science and analytics. The survey aimed to gather insights into various aspects of the participants' roles, experiences, and preferences related to their careers in data.
 
 Power BI was the tool used for the Analysis and Visualization.
 
