@@ -2,11 +2,11 @@
 
 The Data Professional Survey Dataset is a dataset provided by Alex Freberg and was colleccted through a survey targetting individuals working in the field of data science and analytics. The survey aimed to gather insights into various aspects of the participants' roles, experiences, and preferences related to their careers in data.
 
-Power BI was the only tool used for the Analysis and Visualization.
+Power BI was the tool used for the Analysis and Visualization.
 
-The dataset contained 631 rows and 28 columns. The dataset was cleaned and transformed in the Power Query editor where i deleted unwanted columns,
+The dataset contained 631 rows and 28 columns. The dataset was cleaned and transformed in the Power Query editor where I checked for data quality issues, added calculated columns then proceeded to Power BI  report view to create the dashboard. 
 
-# Key Insights gotten from the Data
+#Insights
 1. KPIs
 There is a total number of 630 survey participants, the average age of participants  is 30 years old and 60% of participants switched career into data.
 
