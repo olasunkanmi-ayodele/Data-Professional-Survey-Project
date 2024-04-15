@@ -6,7 +6,7 @@ Power BI was the tool used for the Analysis and Visualization.
 
 The dataset contained 631 rows and 28 columns. The dataset was cleaned and transformed in the Power Query editor where I checked for data quality issues, added calculated columns then proceeded to Power BI  report view to create the dashboard. 
 
-#Insights
+# Insights
 1. KPIs
 There is a total number of 630 survey participants, the average age of participants  is 30 years old and 60% of participants switched career into data.
 
